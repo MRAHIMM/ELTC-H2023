@@ -1,3 +1,5 @@
+// // Test program for a 240x320 ST7789 TFT display and BMP280 temperature sensor
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <SPI.h>
